@@ -25,19 +25,19 @@
   }
 
   .image{
-    padding-top: 2%;
-    float: right;
-    width: 20%;
+    padding-top: 7.5%;
+    float: left;
+    width: 25%;
     height: auto;
   }
 
   .text{
-    padding-top: 10%;
+    padding-top: 5%;
     padding-left: 2%;
-    float: left;
+    float: right;
     width: 75%;
-    font-size: 2vw;
-    font-size: 2vh;
+    font-size: 1.5vw;
+    font-size: 1.5vh;
     font-family: 'Times New Roman', Times, serif;
   }
 
@@ -49,6 +49,7 @@
 
   footer{
     margin-top: auto;
+    padding-top: 1%;
   }
 
   footer p{
