@@ -23,24 +23,7 @@
   .nav-item :hover{
     color: #efce84;
   }
-
-  .image{
-    padding-top: 7.5%;
-    float: left;
-    width: 25%;
-    height: auto;
-  }
-
-  .text{
-    padding-top: 5%;
-    padding-left: 2%;
-    float: right;
-    width: 75%;
-    font-size: 1.5vw;
-    font-size: 1.5vh;
-    font-family: 'Times New Roman', Times, serif;
-  }
-
+  
   body{
     background-color: #262626;
     display: flex;
@@ -63,7 +46,6 @@
     font-family: 'Times New Roman', Times, serif;
   }
 
-
   .container{
     padding-top: 2%;
   }
@@ -74,14 +56,11 @@
     padding: 10px;
   }
 
-  .card{
-    height: 52%;
-  }
-
-  .card img{
-    height: 350px;
-  }
-
   h5{
     font-family: 'Times New Roman', Times, serif;
+  }
+
+  .imageFix{
+    width: 100%;
+    height: 100%;
   }
