@@ -1,4 +1,4 @@
-.logo{
+  .logo{
     width: 25%;
   }
 
@@ -14,7 +14,7 @@
   .navbar-toggler{
     background-color: white;
   }
-
+  
   .nav-item a{
     color: #DDA92B;
     font-family: 'Times New Roman', Times, serif;
@@ -23,7 +23,7 @@
   .nav-item :hover{
     color: #efce84;
   }
-
+  
   .image{
     padding-top: 2%;
     float: right;
