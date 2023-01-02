@@ -32,7 +32,7 @@
 
   footer{
     margin-top: auto;
-    padding-top: 10%;
+    padding-top: 5%;
   }
 
   footer p{
@@ -42,32 +42,19 @@
     font-family: 'Times New Roman', Times, serif;
   }
 
-  p{
-    font-family: 'Times New Roman', Times, serif;
-  }
-
-  .container{
-    padding-top: 2%;
-  }
-
-  .column{
-    padding-bottom: 5%;
-    padding-left: 15%;
-  }
-
-  .card-title{
+  label{
     color: #DDA92B;
+    font-size: 45px;
     font-family: 'Times New Roman', Times, serif;
   }
 
-  .card{
+  form{
+    padding-top: 15%;
+    padding-left: 10%;
     float: left;
   }
 
-  .card img{
-    height: 286px;
-  }
-
-  .moveLeft{
-    padding-left: 50%;
+  .inputSize{
+    width: 300px;
+    height: 50px;
   }
