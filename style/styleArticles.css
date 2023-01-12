@@ -24,6 +24,13 @@
     color: #efce84;
   }
 
+  .image{
+    padding-top: 7.5%;
+    float: left;
+    width: 25%;
+    height: auto;
+  }
+
   .text{
     padding-top: 5%;
     padding-left: 2%;
@@ -54,36 +61,27 @@
   p{
     color: #DDA92B;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
   }
 
-  h2{
-    color: #DDA92B;
-    text-align: center;
-    padding-top: 20%;
-    padding-bottom: 2%;
-  }
-
-  h3{
-    color: #DDA92B;
-  }
-  
-  section img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 70%;
-  }
-
-  article{
-    padding-top: 5%;
-    padding-left: 5%;
-    padding-right: 5%;
-    display: inline-block;
-  }
 
   .container{
-    background-color: #0e0d0d;
-    padding-top: 1%;
-    padding-bottom: 1%;
+    padding-top: 2%;
+  }
+
+  .column{
+    float: left;
+    width: 50%;
+    padding: 10px;
+  }
+
+  .card{
+    height: 52%;
+  }
+
+  .card img{
+    height: 350px;
+  }
+
+  h5{
+    font-family: 'Times New Roman', Times, serif;
   }
